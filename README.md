@@ -1,3 +1,8 @@
+![image alt](https://github.com/Fayazshaik2207/LanguageTranslation-2/blob/9f9cae275cb39c8ac0bcaf71246095ee66f4f0eb/Screenshot%20(119).png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
