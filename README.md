@@ -1,3 +1,9 @@
+# Getting Started with Create React App
+
+Language Translation App (React i18n Version) is a multilingual web app built using the React i18next library. It allows users to switch between multiple languages dynamically, providing a smooth and localized user experience.
+
+
+
 ![image alt](https://github.com/Fayazshaik2207/LanguageTranslation-2/blob/9f9cae275cb39c8ac0bcaf71246095ee66f4f0eb/Screenshot%20(119).png)
 
 
