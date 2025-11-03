@@ -1,0 +1,11 @@
+{
+    "appTitle": "My React App",
+    "home": "Home",
+    "about": "About",
+    "search": "Search",
+    "searchPlaceholder": "Search...",
+    "homeTitle": "Welcome to the Home Page!",
+    "homeDescription": "This is a sample multilingual React application.",
+    "aboutTitle": "About Us",
+    "aboutDescription": "We build modern web applications using React."
+}
