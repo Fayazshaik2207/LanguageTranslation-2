@@ -2,6 +2,12 @@
 
 
 
+![image alt](https://github.com/Fayazshaik2207/LanguageTranslation-2/blob/5c57bd95eaa359448f040d221d4bebfedea1a4ec/Screenshot%20(120).png)
+
+
+
+
+
 
 # Getting Started with Create React App
 
